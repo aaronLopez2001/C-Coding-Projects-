@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\obj\Debug\DailyReportAolcc.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\obj\Debug\DailyReportAolcc.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\bin\Debug\DailyReportAolcc.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\bin\Debug\DailyReportAolcc.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\bin\Debug\DailyReportAolcc.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\obj\Debug\DailyReportAolcc.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\DailyReportAolcc\DailyReportAolcc\obj\Debug\DailyReportAolcc.pdb

@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\IncomeComparisonAssignment\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.pdb

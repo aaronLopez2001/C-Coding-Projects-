@@ -11,3 +11,6 @@ Math Operators
 	- Find remainders
 	- Cast a string into integers
 	-Use boolean data types
+Boolean Logic
+	- Learn how to use &&, || and ^ operators
+	

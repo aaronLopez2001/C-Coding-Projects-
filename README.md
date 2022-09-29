@@ -13,4 +13,7 @@ Math Operators
 	-Use boolean data types
 Boolean Logic
 	- Learn how to use &&, || and ^ operators
+If statements
+	- Learned how to make use of ternary operator
+	- Create If statements
 	

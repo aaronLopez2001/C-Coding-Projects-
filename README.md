@@ -16,4 +16,5 @@ Boolean Logic
 If statements
 	- Learned how to make use of ternary operator
 	- Create If statements
-	
+Loop 
+	- Learned how to create a do while, and while loop

@@ -18,3 +18,6 @@ If statements
 	- Create If statements
 Loop 
 	- Learned how to create a do while, and while loop
+List & Arrays 
+	- Learned how to create Array and List
+	

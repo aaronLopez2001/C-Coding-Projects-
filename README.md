@@ -21,4 +21,6 @@ Loop
 List & Arrays 
 	- Learned how to create Array and List
 Loops & Array
+Exception Handlers
+	- Learned how to catch an error made by User input
 	

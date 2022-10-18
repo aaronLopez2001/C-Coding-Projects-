@@ -1,7 +1,0 @@
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\bin\Debug\ClassesAndMethodAssignment1.exe.config
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\bin\Debug\ClassesAndMethodAssignment1.exe
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\bin\Debug\ClassesAndMethodAssignment1.pdb
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\obj\Debug\ClassesAndMethodAssignment1.csproj.AssemblyReference.cache
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\obj\Debug\ClassesAndMethodAssignment1.csproj.CoreCompileInputs.cache
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\obj\Debug\ClassesAndMethodAssignment1.exe
-C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment1\ClassesAndMethodAssignment1\obj\Debug\ClassesAndMethodAssignment1.pdb

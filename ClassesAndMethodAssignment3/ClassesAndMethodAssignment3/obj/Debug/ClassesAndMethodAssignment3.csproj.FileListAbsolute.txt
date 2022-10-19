@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\bin\Debug\ClassesAndMethodAssignment3.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\bin\Debug\ClassesAndMethodAssignment3.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\bin\Debug\ClassesAndMethodAssignment3.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\obj\Debug\ClassesAndMethodAssignment3.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\obj\Debug\ClassesAndMethodAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\obj\Debug\ClassesAndMethodAssignment3.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\ClassesAndMethodAssignment3\ClassesAndMethodAssignment3\obj\Debug\ClassesAndMethodAssignment3.pdb

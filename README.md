@@ -23,4 +23,6 @@ List & Arrays
 Loops & Array
 Exception Handlers
 	- Learned how to catch an error made by User input
+Classes and Methods
+	- Learned how to instantiate Classes and Call in Methods
 	

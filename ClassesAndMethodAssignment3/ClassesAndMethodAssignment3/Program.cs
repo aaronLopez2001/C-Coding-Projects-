@@ -15,10 +15,11 @@ namespace ClassesAndMethodAssignment3
             int myAge = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("What is the day of your bithday?");
             int bornDay = Convert.ToInt32(Console.ReadLine());
+            
 
 
             obj.Practice(myAge,bornDay);
-           
+            obj.Practice(myAge = 10, bornDay = 16);
 
            
 

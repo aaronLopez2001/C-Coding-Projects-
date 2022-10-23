@@ -26,5 +26,7 @@ Exception Handlers
 Classes and Methods
 	- Learned how to instantiate Classes and Call in Methods
 Learned the use of Ref & Out
+Learned Inheritance
+	- Makes use of inheritance in c# from one class to another.
 	
 	

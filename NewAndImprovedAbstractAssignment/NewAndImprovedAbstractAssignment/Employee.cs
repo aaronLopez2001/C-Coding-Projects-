@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace NewAndImprovedAbstractAssignment
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
 
+        public List<T> Things = new List<T>();
         public string Name { get; set; }
         public int id1 { get; set; }
         public int id2 { get; set; }
@@ -26,7 +27,7 @@ namespace NewAndImprovedAbstractAssignment
             Console.WriteLine(FirstName + " "+ LastName + " has quit his job");
         }
 
-        public static bool operator==(Employee emp1, Employee emp2)
+        public static bool operator==(Employee<T> emp1, Employee<T> emp2)
         {
             bool status = false;
             if(emp1.id1 == emp2.id2)
@@ -39,7 +40,7 @@ namespace NewAndImprovedAbstractAssignment
         {
             return base.Equals(obj);
         }
-        public static bool operator !=(Employee emp1, Employee emp2)
+        public static bool operator !=(Employee<T> emp1, Employee<T> emp2)
         {
             bool status = false;
             if (emp1.id1 == emp2.id2)

@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\bin\Debug\NewAndImprovedAbstractAssignment.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\bin\Debug\NewAndImprovedAbstractAssignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\bin\Debug\NewAndImprovedAbstractAssignment.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\obj\Debug\NewAndImprovedAbstractAssignment.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\obj\Debug\NewAndImprovedAbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\obj\Debug\NewAndImprovedAbstractAssignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\NewAndImprovedAbstractAssignment\NewAndImprovedAbstractAssignment\obj\Debug\NewAndImprovedAbstractAssignment.pdb

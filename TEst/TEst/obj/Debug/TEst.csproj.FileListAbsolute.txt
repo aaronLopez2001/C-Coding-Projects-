@@ -1,0 +1,7 @@
+C:\Users\azehu\source\repos\TEst\TEst\bin\Debug\TEst.exe.config
+C:\Users\azehu\source\repos\TEst\TEst\bin\Debug\TEst.exe
+C:\Users\azehu\source\repos\TEst\TEst\bin\Debug\TEst.pdb
+C:\Users\azehu\source\repos\TEst\TEst\obj\Debug\TEst.csproj.AssemblyReference.cache
+C:\Users\azehu\source\repos\TEst\TEst\obj\Debug\TEst.csproj.CoreCompileInputs.cache
+C:\Users\azehu\source\repos\TEst\TEst\obj\Debug\TEst.exe
+C:\Users\azehu\source\repos\TEst\TEst\obj\Debug\TEst.pdb

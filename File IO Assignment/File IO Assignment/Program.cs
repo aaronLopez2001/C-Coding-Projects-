@@ -10,6 +10,10 @@ namespace File_IO_Assignment
     {
         static void Main(string[] args)
         {
+            //Prints out the current date and time 
+
+            DateTime present = DateTime.Now;
+            Console.WriteLine("Date: "+ present);
             Console.WriteLine("Please write a number");
             int answer = Convert.ToInt32(Console.ReadLine());
             string answerToString = Convert.ToString(answer);
@@ -18,8 +22,12 @@ namespace File_IO_Assignment
             {
                 file.Write(answr);
             }
+           
+            Console.WriteLine(present.AddHours(answer));
             Console.WriteLine(answr);
             Console.Read();
+            
+
         }
     }
 }

@@ -8,12 +8,11 @@ namespace NewAndImprovedAbstractAssignment
 {
     class Employee<T> : Person, IQuittable
     {
-
+        public List<T> workers = new List<T>();
         public List<T> Things = new List<T>();
         public string Name { get; set; }
         public int id1 { get; set; }
         public int id2 { get; set; }
-
 
 
         public override void SayName()
@@ -53,10 +52,13 @@ namespace NewAndImprovedAbstractAssignment
         {
             return base.GetHashCode();
         }
-
-
-
-
-
+        
     }
+    struct Workers
+    {
+        public string myfirstName;
+        public string myLastName;
+        public int myID;
+    }
+    
 }

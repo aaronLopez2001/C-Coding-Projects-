@@ -3,13 +3,88 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime;
 
 namespace NewAndImprovedAbstractAssignment
 {
+
     class Program
     {
         static void Main(string[] args)
         {
+            //Lambda
+            Employee<string> workerFirstName = new Employee<string>();
+            Employee<string> workerLastName = new Employee<string>();
+            Employee<int> workerID = new Employee<int>();
+            //Lambda Expression
+            //I'm creating 10 employees here.
+            //1
+            workerFirstName.workers.Add("Joe");
+            workerLastName.workers.Add("Smith");
+            workerID.workers.Add(1111);
+            //2
+            workerFirstName.workers.Add("Joe");
+            workerLastName.workers.Add("Clarkson");
+            workerID.workers.Add(2222);
+            //3
+            workerFirstName.workers.Add("Erika");
+            workerLastName.workers.Add("White");
+            workerID.workers.Add(3333);
+            //4
+            workerFirstName.workers.Add("Harold");
+            workerLastName.workers.Add("Lopez");
+            workerID.workers.Add(4444);
+            //5
+            workerFirstName.workers.Add("Aaron");
+            workerLastName.workers.Add("Polaski");
+            workerID.workers.Add(5555);
+            //6
+            workerFirstName.workers.Add("Walter");
+            workerLastName.workers.Add("Holts");
+            workerID.workers.Add(6666);
+            //7
+            workerFirstName.workers.Add("Amy");
+            workerLastName.workers.Add("Santiago");
+            workerID.workers.Add(7777);
+            //8
+            workerFirstName.workers.Add("Jeff");
+            workerLastName.workers.Add("Higgins");
+            workerID.workers.Add(8888);
+            //9
+            workerFirstName.workers.Add("Sway");
+            workerLastName.workers.Add("Lee");
+            workerID.workers.Add(9999);
+            //10
+            workerFirstName.workers.Add("Jin");
+            workerLastName.workers.Add("Miyamoto");
+            workerID.workers.Add(1010);
+            //foreach loop that searches  for the name "Joe"
+            List<string> DuplicatesName = new List<string>();
+            
+
+            //
+
+            foreach (string name in workerFirstName.workers)
+            {
+
+
+                if (name == "Joe")
+                {
+                    DuplicatesName.Add(name);
+                }
+
+
+            }
+            foreach (string x in DuplicatesName)
+            {
+                Console.WriteLine(x);
+            }
+            //Using lambda Expressions
+            List<int> employeeWithIDabove5 = new List<int>();
+            workerID.workers.ForEach(x => { if (x > 5) { employeeWithIDabove5.Add(x); } }  );
+            employeeWithIDabove5.ForEach(x => { Console.WriteLine(x); });
+
+
             Employee<string> obj5 = new Employee<string>();
             Employee<int> values = new Employee<int>();
             obj5.Things.Add("Car");

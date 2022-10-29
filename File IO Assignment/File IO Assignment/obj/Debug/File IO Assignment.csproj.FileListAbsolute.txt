@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\bin\Debug\File IO Assignment.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\File IO Assignment\File IO Assignment\obj\Debug\File IO Assignment.pdb

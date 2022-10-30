@@ -1,0 +1,7 @@
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\bin\Debug\Additional Fealtures Assignment.exe.config
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\bin\Debug\Additional Fealtures Assignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\bin\Debug\Additional Fealtures Assignment.pdb
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\obj\Debug\Additional Fealtures Assignment.csproj.AssemblyReference.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\obj\Debug\Additional Fealtures Assignment.csproj.CoreCompileInputs.cache
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\obj\Debug\Additional Fealtures Assignment.exe
+C:\Users\azehu\OneDrive\Desktop\Basic C# Programs\Additional Fealtures Assignment\Additional Fealtures Assignment\obj\Debug\Additional Fealtures Assignment.pdb

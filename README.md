@@ -28,5 +28,16 @@ Classes and Methods
 Learned the use of Ref & Out
 Learned Inheritance
 	- Makes use of inheritance in c# from one class to another.
+How to use MVC
+Create an entity Framework
+Learns how to use event handler
+Use Database to make website more dynamic
+Use a bit of .NET Core
+Learn the Data type DateTime
+Learned how to use LAMBDA expressions
+How to Debug code
+How to override a Method
+Use polymorphism
+
 	
 	

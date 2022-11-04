@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace CarInsurance
+namespace entityTest2
 {
     public class FilterConfig
     {
